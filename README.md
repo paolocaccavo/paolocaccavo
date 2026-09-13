@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paolocaccavo
-- 👀 I’m interested in Full stack development with Laravel PHP
-- 🌱 I’m currently learning Javascript and Google Platform APIs
+- 👀 I’m a Senior Laravel PHP Full-stack developer and IT Manager
 - 📫 How to reach me: caccavo.paolo@gmail.com
 
 <!---
